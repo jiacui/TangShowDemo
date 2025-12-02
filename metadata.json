@@ -1,0 +1,5 @@
+{
+  "name": "Obesity Intervention Tracker",
+  "description": "A comprehensive data collection prototype for obesity intervention experiments, tracking physiological metrics, appetite, and device usage across blank and stimulation phases.",
+  "requestFramePermissions": []
+}
